@@ -1,0 +1,47 @@
+body {
+  background-image: url(bright-colorful-mottled-background-wooden-260nw-1009499824.jpg);
+  background-size: cover;
+}
+h3 {
+  padding: 20px;
+  color: black;
+  font-size: xx-large;
+  display: inline-block;
+  font-family: "Lucida Console", Courier, monospace;
+}
+h1 {
+  padding: 30px 30px 30px 30px;
+  color: orangered;
+  display: inline-block;
+  border-width: 5px;
+  border-color: black;
+  background-color: papayawhip;
+  text-align: center;
+  border-top-style: groove;
+  border-right-style: solid;
+  border-bottom-style: groove;
+  border-left-style: solid;
+  font-family: "Courier New", Courier, monospace;
+  width: 200px;
+}
+h4 {
+  padding: 20px;
+  color: black;
+  font-size: large;
+  display: inline-block;
+  font-family: "Lucida Console", Courier, monospace;
+}
+span {
+  font: italic bold;
+  color: #160329;
+  font-family: "Courier New", Courier, monospace;
+  background-color: papayawhip;
+  padding: 15px;
+  width: 600px;
+  display: block;
+  width: 300px;
+  height: 400px;
+  padding: 5px;
+  border: 1px solid black;
+  background-color: papayawhip;
+}
